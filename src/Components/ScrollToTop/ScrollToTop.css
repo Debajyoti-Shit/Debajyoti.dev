@@ -1,0 +1,14 @@
+.scroll-top {
+  position: fixed;
+  bottom: 2em;
+  right: 1em;
+  background-color: transparent;
+  border: 1px solid gray;
+  border-radius: 60%;
+}
+
+@media (max-width: 900px) {
+  .scroll-top {
+    display: none;
+  }
+}
