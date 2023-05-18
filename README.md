@@ -1,12 +1,4 @@
 # My Portfolio
-Link : 
+Github Link : https://github.com/Debajyoti-Shit/Debajyoti.dev
 
 
-update your start script in package.json to use
-
-```react-scripts --openssl-legacy-provider start```
-To build your application:
-
-update your build script in package.json to use
-
-```react-scripts --openssl-legacy-provider build```
